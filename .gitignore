@@ -29,6 +29,13 @@
 .pub-cache/
 .pub/
 /build/
+/android/
+/ios/
+/test/
+/web/
+/windows/
+/linux/
+/macos/
 
 # Web related
 lib/generated_plugin_registrant.dart
